@@ -36,6 +36,9 @@
 18. [gocui go语言的终端图形化 学习范例](https://github.com/jroimartin/gocui)
 19. [我不想和你谈论](https://www.douban.com/note/235592900/)    --张悬的歌《我不想和你谈论》  来自诗人吴晟的词
 20. [cgi脚本简介](http://rickcarlino.com/2019/07/20/what-were-cgi-scripts-html.html)
+21. [hub-github iterm](https://hub.github.com/)
+22. [JetBrains IDE shortcut](https://nextfe.com/jetbrains-ide-shortcuts/)
+23. [linux 界面系统安装软件](https://github.com/panhaoneo/autosetup)
 
 # 推荐
 1. mysql的学习
