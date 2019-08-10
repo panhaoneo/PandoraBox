@@ -1,3 +1,7 @@
+### 2019.09
+1. [隐私保护和收集方案](https://github.com/No-Github/Digital-Privacy)
+2. [外挂入门指南](https://github.com/CasterWx/Plug-in-R)
+
 
 ### 2019.08
 1. [go语言学习电子书](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md) 
