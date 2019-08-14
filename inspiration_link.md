@@ -33,6 +33,7 @@
 
 ### 学习推荐
 1. 自己写一个博客项目： go做后端 JQuery+Bootstarp 前端 Mysql+Redis 数据库  参考：[printf&520](https://www.printf520.com/about.html)
+   资源：[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 2. mysql 《MySQL技术内幕：SQL编程》 《高性能MySQL》《MySQL技术内幕》
  
 ### 灵感问题
