@@ -1,6 +1,7 @@
 ### 2019.09
 1. [隐私保护和收集方案](https://github.com/No-Github/Digital-Privacy)
 2. [外挂入门指南](https://github.com/CasterWx/Plug-in-R)
+3. [鱼塘热榜项目](https://github.com/timeromantic/TopList/)
 
 
 ### 2019.08
@@ -29,16 +30,12 @@
 23. [linux 界面系统安装软件](https://github.com/panhaoneo/autosetup)
 24. [140种植物插画作品](https://www.c82.net/twining/plants/)
 
-# 推荐
-1. mysql的学习
- 推荐书籍：
- 1.《MySQL技术内幕：SQL编程》
- 2.《高性能MySQL》
- 3.《MySQL技术内幕》
-2. 《中国人的活法》 现实版的月亮和六便士
 
-
-# 灵感问题
+### 学习推荐
+1. 自己写一个博客项目： go做后端 JQuery+Bootstarp 前端 Mysql+Redis 数据库  参考：[printf&520](https://www.printf520.com/about.html)
+2. mysql 《MySQL技术内幕：SQL编程》 《高性能MySQL》《MySQL技术内幕》
+ 
+### 灵感问题
 - [ ] 【封装sql driver】mysql为什么一个db一个对象一个链接，mongodb也需要这样吗？
 - [ ]  Goroutines，thread， coroutines 概念了解
 
