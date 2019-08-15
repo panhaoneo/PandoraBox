@@ -2,7 +2,7 @@
 
 ### :computer: 编程相关
 1. [the way to go](https://github.com/unknwon/the-way-to-go_ZH_CN)
-2. 
+2. [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 
 ### :mailbox: 编程以外
 1. [天文学资源仓库](https://github.com/orbitalindex/awesome-space)
