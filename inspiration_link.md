@@ -4,7 +4,10 @@
 1. [隐私保护和收集方案](https://github.com/No-Github/Digital-Privacy)
 2. [外挂入门指南](https://github.com/CasterWx/Plug-in-R)
 3. [鱼塘热榜项目](https://github.com/timeromantic/TopList/)
-
+4. [面向对象编程的缺点oop](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
+5. [js滑块机器人](https://medium.com/@filipvitas/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)
+6. [bash PS 动态显示git目录方式](https://dev.to/awwsmm/create-a-dynamic-prompt-string-in-bash-3617)
+7. [基于机器学习的代码补全插件，vscode支持](https://tabnine.com/)
 
 ### 2019.08
 1. [go语言学习电子书](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md) 
