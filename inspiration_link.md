@@ -1,6 +1,11 @@
 ## :page_with_curl: The Link 
 
-### 2019.09
+### 2019.09.01
+1. [离伦敦脸书最近的一次 – 记FACEBOOK伦敦终面经历](https://justyy.com/archives/19030)
+2. [徒手攀援 的启示](http://www.luojiji.com/thread-13990-1-1.html)
+3. 
+
+### 2019.08.30
 1. [隐私保护和收集方案](https://github.com/No-Github/Digital-Privacy)
 2. [外挂入门指南](https://github.com/CasterWx/Plug-in-R)
 3. [鱼塘热榜项目](https://github.com/timeromantic/TopList/)
