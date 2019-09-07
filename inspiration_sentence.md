@@ -1,5 +1,8 @@
 :pager:记录一些灵感话语，有些道理的话，还有一些观点
 ----
+### :green_book:2019.09
+1. 学习编程很酷的一点是，你会同时获得两个专长。一个专长是计算机科学和编程，另一个是需要你来编程的那个专门领域。除非你是编译器作者，否则你总是会有自己的专门领域。 (Rich Hickey)[https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/ProblemSolving.md]Clojure 语言的发明者
+2. 我觉得程序员，尤其是年轻程序员，投入太多脑力在编程。他们去学习编程语言的各种奇怪特性，学习类型系统的古怪设定，学习巨型 JavaScript UI 库的各种细节，反而没有投入很多时间在他们要解决问题的专门领域。   (Rich Hickey)[https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/ProblemSolving.md]Clojure 语言的发明者
 
 
 ### :blue_book:2019.08
