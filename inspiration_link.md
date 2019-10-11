@@ -3,7 +3,7 @@
 ### 2019.09.01
 1. [离伦敦脸书最近的一次 – 记FACEBOOK伦敦终面经历](https://justyy.com/archives/19030)
 2. [徒手攀援 的启示](http://www.luojiji.com/thread-13990-1-1.html)
-3. 
+3. [探寻核聚变](https://www.bloomberg.com/news/features/2019-09-28/startups-take-aim-at-nuclear-fusion-energy-s-biggest-challenge)
 
 ### 2019.08.30
 1. [隐私保护和收集方案](https://github.com/No-Github/Digital-Privacy)
