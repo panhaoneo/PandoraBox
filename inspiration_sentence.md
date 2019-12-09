@@ -1,5 +1,10 @@
 :pager:记录一些灵感话语，有些道理的话，还有一些观点
 ----
+### 2019.12
+1. 《史记》中说：“天下熙熙，皆为利来；天下攘攘，皆为利往。”这两句话不带任何感情色彩，描述的是人类本性，是客观事实。 遇到问题和事件，不妨从利益角度去思考，因为这就是人性。  ---[利益在哪里，答案就在哪里](https://mp.weixin.qq.com/s/vRyQ1iZyljiFGY13ZgrCgg)
+2. 人感到孤独有两种情况，一种是情感上的孤独，就是没人在乎你的感受。一种是智识上的孤独，就是没有人在乎你的想法。
+3. 投资和投机的区别：投资是买了就放着不动，等大趋势。
+
 ### :green_book:2019.09
 1. 学习编程很酷的一点是，你会同时获得两个专长。一个专长是计算机科学和编程，另一个是需要你来编程的那个专门领域。除非你是编译器作者，否则你总是会有自己的专门领域。 [Rich Hickey](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/ProblemSolving.md)Clojure 语言的发明者
 2. 我觉得程序员，尤其是年轻程序员，投入太多脑力在编程。他们去学习编程语言的各种奇怪特性，学习类型系统的古怪设定，学习巨型 JavaScript UI 库的各种细节，反而没有投入很多时间在他们要解决问题的专门领域。   [Rich Hickey](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/ProblemSolving.md)Clojure 语言的发明者
