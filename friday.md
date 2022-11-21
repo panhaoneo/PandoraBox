@@ -3,13 +3,40 @@
 1. [CSS中的html和body的区别](https://css-tricks.com/html-vs-body-in-css/)   CSS 属性如果要对整张页面生效，可以定义在`<html>`，也可以定义在`<body>`，本文介绍两者的区别。
 
 2. [100字节的基本 CSS 设置](https://www.swyx.io/css-100-bytes)（英文）作者逐行介绍一个网页样式的基本 CSS 设置，只要100字节。
+
 3. [Node.js 19 的新功能](https://blog.appsignal.com/2022/11/15/nodejs-19-release-whats-new.html)（英文）本文介绍刚发布的 Node.js 新引入的一些功能。
+
 4. [什么是 WebAuthn](https://fusionauth.io/blog/2022/09/13/what-is-webauthn-why-do-you-care)（英文） 本文较通俗地介绍了账户登录的 WebAuthn 标准，不涉及实现细节，你可以大致理解它是怎么回事。
+
 5. [如何保持网页图像的纵横比](https://jakearchibald.com/2022/img-aspect-ratio/)（英文） 作者详细讨论了，在网页图像加载之前，就提前留出图像空间的两种方法：CSS 的 aspect-ratio 属性，以及`<img>`的 height 和 width 属性。
+
 6. [React 的重新渲染](https://www.joshwcomeau.com/react/why-react-re-renders/)（英文）本文详细解释怎么会触发 React 的重新渲染。文章比较长，但是不难。
+
 7. [巧用 CSS 显示 HTML 源码](https://secretgeek.github.io/html_wysiwyg/html.html)（英文） 本文介绍了几个有用的技巧，很神奇地在渲染页面时，能够展示 HTML 源码。
+
 8. [写出清晰代码的六条规则](https://massimo-nazaria.github.io/blog/2022/02/10/avoid-spaghetti-code-with-scope-minimization.html)（英文）作者总结了六条简单规则，可以避免代码一团乱。我觉得总结得不错。
-9. 
+
+9. [神奇的 H.264](https://sidbala.com/h-264-is-magic/)（英文）一篇很有名的长文，写于2016年，介绍 H.264 算法为什么这么神奇，可以将高清视频压缩得这么小。
+
+10. [如何写一个 React 路由组件](https://github.com/ashok-khanna/react-snippets/blob/main/Router.js)（英文）
+
+    这是一个带有详细注释的脚本，讲解每一行的含义，不到100行代码，实现了 React 的路由。
+
+11. [零基础开发一个 Web/Hybird 项目](https://imf.ms/web/2022/07/05/my-first-web-hybird-project-experience/)（中文）作者零基础开发了一个完整的 Web/Hybird 的项目，支持浏览器端、Android 端、iOS 端，这篇长文记录了所有的学习和开发过程。
+
+12. [任正非：关于专家委员会](https://www.163.com/dy/article/HBFKD26S0519QIKK.html)（中文
+
+13. [JavaScript 容器](https://tinyclouds.org/javascript_containers)（英文）
+
+    Node.js 和 Deno 创始人 Ryan Dahl 的文章，提出将 JavaScript 作为容器标准语言，Deno 作为容器内部运行环境。
+
+    这样的话，容器就能标准化，开发者自己就不必构建容器的镜像文件了，直接把 JS 脚本扔到标准化容器就可以了。
+
+14. [我所用的自托管应用程序](https://noted.lol/what-are-your-most-used-self-hosted-applications/)（英文）作者介绍了自己在家庭内网托管的所有应用程序，可以当作架设家庭 SaaS 服务的参考。
+
+15. [htmx](https://htmx.org/) 一个网页 JS 库，可以让任何一个网页元素发出 HTTP 请求，并且可以局部更新该元素，详见[这篇教程](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)。
+
+16. 
 
 
 
@@ -26,6 +53,11 @@
 9. [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/) ffmpeg 以参数复杂而闻名，这个网页应用让用户填写几个文本框，自动生成对应的 ffmpeg 命令。
 10. [软件内部信息的7个可视化工具](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14)（英文） 本文介绍7个工具，可以将软件内部信息（比如目录结构、依赖关系等）以可视化的形式展现。
 11. [OpenAI 公司](https://openai.com/blog/dall-e-now-available-in-beta/)的人工智能模型 [DALL·E 2](https://openai.com/dall-e-2/)，最近向社会公众开放。
+12. [使用人工智能解释代码](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)（英文）
+13. [卡通猫生成器](https://uchinoko-maker.jp/) 一个网页小工具，可以生成卡通猫图片，猫的每个部分都可以定制。
+14. [像素动物](https://kottke.org/22/03/pixel-birds-and-other-animals) 一个日本艺术家贴出了，他绘制的大量像素动物，非常有趣。
+15. [C2Rust](https://c2rust.com/) 这个工具可以将 C/C++ 代码转换成 Rust 代码，除了命令行工具，还提供在线转换。
+16. 
 
 
 
@@ -35,7 +67,11 @@
 2. [程序员的实用深度学习](https://course.fast.ai/) fast.ai 推出的最新线上公开课，向程序员介绍如何做一个深度学习项目，有视频和详细的课程资料，另有[课程仓库](https://github.com/fastai/course22/)。
 3. [C语言实现的内网穿透](https://github.com/liudf0716/xfrpc)
 4. [蒋尚义万字访谈](https://mp.weixin.qq.com/s/Y22nMfoIh1h3J6cLaNii2w)（中文） 蒋尚义（1946－）曾担任台积电共同营运长，后来到了大陆，担任过中芯国际副董事长。内容不错，值得一读，可以了解半导体行业和台积电。
-5. 
+5. [React 技术揭秘](https://react.iamkasong.com/) 原创的中文电子书，解读 React 源码，并有[配套的代码仓库](https://github.com/BetaSu/big-react)，自己从零实现 React 18
+6. [3D 动画揭秘](https://www.khanacademy.org/computing/pixar)（Pixar in a Box）这是 Pixar 动画公司与可汗学院的一个合作教程，通过几十个视频短片，每个大约两三分钟，介绍 3D 动画电影的制作过程。
+7. [汇编语言的艺术](http://www.phatcode.net/res/223/files/html/toc.html) 在线阅读的免费电子书《The art of assembly language programming》，面向初学者的汇编语言教程，从最基本的二进制开始教起。
+8. [谷歌软件工程](https://qiangmzsx.github.io/Software-Engineering-at-Google/)（中文版） 作者自己动手，中英对照翻译了《Software Engineering at Google》一书。原书是谷歌员工的文章合集，介绍谷歌内部的软件工程做法。
+9. [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/) 一个 Vue.js 题库，可以选择不同的难度进行不同程度的练习。
 
 
 
@@ -97,4 +133,28 @@
 
     -- [Hacker News 读者](https://news.ycombinator.com/item?id=31798326)
 
-11. 
+11. 软件开发的目标不是类型安全、100%的测试覆盖率、流畅的代码逻辑、完善的开发工具、高效的系统、使用最好的编程语言、优雅的 API 设计、快速的反馈循环、编写很棒的代码等等......
+
+    软件开发的真正目标只有一个：发布解决客户问题的软件，为客户提供价值。
+
+    -- [《成为专业程序员10周年的感悟》](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 
+
+12. 所有值得做的事情，做得一团糟也值得做，因为做得糟总比不做好。
+
+    -- [Hacker News 读者](https://news.ycombinator.com/item?id=31409481)
+
+13. 我仰慕的大多数程序员都有一个很少被谈论的特质：无所畏惧。
+
+    他们无所畏惧地面对未知的代码库和未知的任务，尽管不知道如何完成，毅然开始着手做某事。让自己变得无所畏惧，是我发现的最好的学习加速器之一。
+
+    -- [《成为专业程序员10周年的感悟》](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+
+14. 我读到一篇文章[《人生不短》](https://dkb.show/post/life-is-not-short)，写得很好。
+
+人生很短，但是如果你知道，怎么利用好这些时间，它就不短。
+
+人生刚好够实现自己的一个梦想，前提是你必须从一开始，就把所有精力专注于此。
+
+如果你浪费时间，不够专注，那么你没做什么事，人生就结束了。
+
+真正的问题不是人生短暂，而是我们浪费了太多时间。
