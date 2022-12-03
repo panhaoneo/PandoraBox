@@ -23,3 +23,5 @@
 [tuna](https://mirrors.tuna.tsinghua.edu.cn/)
 [zheda](http://mirrors.zju.edu.cn/)
 
+### 学习站
+- [cs自学站](https://csdiy.wiki/)
